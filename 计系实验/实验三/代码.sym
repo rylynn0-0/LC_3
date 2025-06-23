@@ -1,0 +1,21 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       3053
+//	A_score                 3056
+//	B                       3054
+//	B_score                 3057
+//	C                       3055
+//	ans                     3051
+//	check_A                 3039
+//	loop                    3010
+//	loop_A                  303F
+//	loop_B                  302F
+//	next                    301A
+//	next_loop               301D
+//	next_part               3029
+//	not_get_A               3046
+//	not_get_B               3036
+//	num                     3050
+//	out_loop                3004
+//	over                    3049
+//	score                   3052

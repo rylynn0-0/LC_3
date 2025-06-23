@@ -1,0 +1,14 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     2020
+//	DSR                     2021
+//	KBDR                    201F
+//	KBSR                    201E
+//	ent                     2018
+//	loop                    2006
+//	next                    200C
+//	reset                   2019
+//	saver0                  201B
+//	saver1                  201C
+//	saver2                  201D
+//	set                     201A

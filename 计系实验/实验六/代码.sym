@@ -1,0 +1,20 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     3022
+//	DSR                     3023
+//	ICS_0                   3029
+//	ICS_1                   3025
+//	KBDR                    3021
+//	KBSR                    3020
+//	count                   3037
+//	def                     301E
+//	delay                   3031
+//	f0                      3010
+//	f1                      3015
+//	flag                    3024
+//	loop_out                3005
+//	newline                 3030
+//	rep                     3033
+//	saver1                  3038
+//	stack                   301F
+//	trap_                   301D
